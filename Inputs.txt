@@ -1,0 +1,24 @@
+Enter the values for dimensionless parameters here.
+Please follow the instructions below:
+
+* For single value parameters write the value only.
+e.g., beta = 1/2
+* To have multiple values for a parameter use brackets [], with "," separating the values
+e.g., beta = [-1, 0, 1/2, 4/5]
+* To have a certain number of values for a parameter within a range use (min value, max value, number of values)
+e.g., beta = (-1, 1, 11)
+
+Remarks:
+. You need |beta|<=1, gamma in {-1/5 -1/3 -1/2 0 1/2 1/3 1/5}, Omega>0, Phi0>0, L>0.
+. DO NOT change the name of parameters.
+. Only one of the 3 dimensionless parameters beta, gamma, & Omega can have multiple values
+. Values can be expressed as integer, float, or fraction
+. Use EXACTLY the provided instructions to avoid errors in reading.
+
+
+Parameters:
+
+param_beta = (-1,1,5)
+param_gamma = 0
+param_Omega = 0.1
+param_kl = 10
