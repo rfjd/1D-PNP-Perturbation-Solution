@@ -1,4 +1,4 @@
-A second-order perturbation solution to the ac PNP equations for ac potentials. The second-order term provides an approximation for the **AREF** between parallel electrodes.  
+A second-order perturbation solution to the Poisson-Nernst-Planck (PNP) equations for ac potentials. The second-order term provides an approximation for the **AREF** between parallel electrodes.  
 
 This program is written in python.  
 The packages matplotlib and pylatexenc are required.  
