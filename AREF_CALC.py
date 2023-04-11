@@ -1,24 +1,24 @@
 """
 ********************************************************************************* +
 *********************************** AREF_CALC *********************************** +
-************************** S.M.H. (Aref) Hashemi Amrei ************************** +
+********************************** Aref Hashemi ********************************* +
 ********************************************************************************* +
 This program evaluates AREF via a second-order perturbation solution to the PNP eqns.
 AREF: asymmetric rectified electric field
 
-References to cite:
+References:
     1) A perturbation solution to the full Poisson–Nernst–Planck equations yields an asymmetric rectified electric field
-    S. M. H. Hashemi Amrei, Gregory H. Miller, Kyle J. M. Bishop, & William D. Ristenpart
+    Aref Hashemi, Gregory H. Miller, Kyle J. M. Bishop, & William D. Ristenpart
     Soft Matter 16, 7052-7062 (2020)
 
     2) Oscillating Electric Fields in Liquids Create a Long-Range Steady Field
-    S. M. H. Hashemi Amrei, Scott C. Bukosky, Sean P. Rader, William D. Ristenpart, & Gregory H. Miller
+    Aref Hashemi, Scott C. Bukosky, Sean P. Rader, William D. Ristenpart, & Gregory H. Miller
     Physical Review Letters 121, 185504 (2018)
 
 The eqn numbers throughout this code refer to the corresponding equations in ref. 1.
 ___________________________________________________________________________________
 Correspondence should be addressed to:
-    i) S.M.H. (Aref) Hashemi Amrei (aref@cims.nyu.edu)
+    i) Aref Hashemi (aref@cims.nyu.edu)
     ii) Gregory H. Miller (grgmiller@ucdavis.edu)
     iii) William D. Ristenpart (wdristenpart@ucdavis.edu)
 """
@@ -27,16 +27,16 @@ from AREF_SOURCE import *
 
 print('\n============================== AREF_CALC by S.M.H. Hashemi Amrei (Aref) ==============================\n' +
       'This program evaluates a semi-analytical AREF (asymmetric rectified electric field).\n\n' +
-      'References to cite:\n' +
+      'References:\n' +
       '1) A perturbation solution to the full Poisson–Nernst–Planck equations yields an asymmetric rectified' +
-      ' electric field\nS. M. H. Hashemi Amrei, Gregory H. Miller, Kyle J. M. Bishop, & William D. Ristenpart\n' +
+      ' electric field\nAref Hashemi, Gregory H. Miller, Kyle J. M. Bishop, & William D. Ristenpart\n' +
       'Soft Matter, DOI: 10.1039/D0SM00417K (2020)\n' +
       '2) Oscillating Electric Fields in Liquids Create a Long-Range Steady Field\n' +
-      'S. M. H. Hashemi Amrei, Scott C. Bukosky, Sean P. Rader, William D. Ristenpart, & Gregory H. Miller\n' +
+      'Aref Hashemi, Scott C. Bukosky, Sean P. Rader, William D. Ristenpart, & Gregory H. Miller\n' +
       'Physical Review Letters 121, 185504 (2018)\n' +
       '______________________________________________________________________\n' +
       'Correspondence should be addressed to:\n' +
-      'i) S.M.H. (Aref) Hashemi Amrei (aref@cims.nyu.edu)\n' +
+      'i) Aref Hashemi (aref@cims.nyu.edu)\n' +
       'ii) Gregory H. Miller (grgmiller@ucdavis.edu)\n' +
       'iii) William D. Ristenpart (wdristenpart@ucdavis.edu)\n' +
       '======================================================================================================\n')
