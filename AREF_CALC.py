@@ -25,7 +25,7 @@ Correspondence should be addressed to:
 
 from AREF_SOURCE import *
 
-print('\n============================== AREF_CALC by S.M.H. Hashemi Amrei (Aref) ==============================\n' +
+print('\n============================== AREF_CALC (Aref Hashemi) ==============================\n' +
       'This program evaluates a semi-analytical AREF (asymmetric rectified electric field).\n\n' +
       'References:\n' +
       '1) A perturbation solution to the full Poisson–Nernst–Planck equations yields an asymmetric rectified' +
